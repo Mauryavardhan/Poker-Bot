@@ -380,17 +380,6 @@ python bot.py --host HOST --port PORT
 
 ---
 
-## 📊 Key Results
-
-| Metric | Value |
-|--------|-------|
-| Competition Rank | **15 / 200** |
-| Win Rate vs. Field | ~62% |
-| Avg. Response Time | < 30 ms per move |
-| Auction Win Rate | ~58% of auctions contested |
-
----
-
 ## 📜 License
 
 This project is released under the MIT License. See [LICENSE](LICENSE) for details.
